@@ -1,0 +1,2 @@
+*.log 
+# esclude qualunque file di log dal controllo della versione 
